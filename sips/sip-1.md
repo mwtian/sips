@@ -37,9 +37,7 @@ A SIP category must be specified when the [SIP type](#sip-type) is `Standard`, b
 
 There are five categories of SIP:
 
-1. **Core**: Changes or additions to core features of Sui, including consensus, execution, storage, and account signatures
-
-1. **Networking**: Changes or additions to Sui's mempool or network protocols
+1. **Core**: Changes or additions to core features of Sui, including consensus, execution, networking, storage, and account signatures
 
 1. **Interface**: Changes or additions to RPC specifications or lower-level naming conventions
 

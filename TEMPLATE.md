@@ -5,7 +5,7 @@
 |       Author | <A list of the authors' real names or aliases, plus their GitHub usernames and/or email addresses (in escaped angle brackets)> |
 |       Editor | <Leave this blank; it will be assigned by a SIP Editor> |
 |         Type | <Standard, Process, Informational> |
-|     Category | <Optional, only needed for Type=Standard; Core, Networking, Interface, Framework, Application> |
+|     Category | <Optional, only needed for Type=Standard; Core, Interface, Framework, Application> |
 |      Created | <Date created, in ISO 8601 format (YYYY-MM-DD)> |
 | Comments-URI | <Leave this blank; it will be assigned by a SIP Editor> |
 |       Status | <Leave this blank; it will be assigned by a SIP Editor> |
